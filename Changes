@@ -1,0 +1,6 @@
+Revision history for Perl extension Method::LazyLoad.
+
+0.01  Fri May  4 11:13:51 2012
+	- original version; created by h2xs 1.23 with options
+		-AXn Method::LazyLoad
+
